@@ -1,7 +1,6 @@
 # ​ Hi, I'm Bản Nguyễn (caoban123)
 
-![Coding Animation]((https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2YxYzY3OGQ3Y243d3VpaWYyOWJub2ZkdXU3dXkzN3EzZWV1M2FreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTPjPA6SSXgTsnZ1Dh/giphy.gif))
-
+![Fun Coding Animation](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2YxYzY3OGQ3Y243d3VpaWYyOWJub2ZkdXU3dXkzN3EzZWV1M2FreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTPjPA6SSXgTsnZ1Dh/giphy.gif)
 > **"I turn coffee ☕ into code... and bugs 🐛 into features ✨."**
 
 ---
