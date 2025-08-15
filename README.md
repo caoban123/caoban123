@@ -8,7 +8,7 @@
 ##  About Me
 - 💻 Passionate about solving coding problems & building projects  
 - 📚 Working on mastering Data Structures & Algorithms (NeetCode + LeetCode)  
--  Funny habit: I debug most efficiently after a strong coffee
+- ✍Funny habit: I debug most efficiently after a strong coffee
 
 ---
 
