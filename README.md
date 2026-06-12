@@ -90,12 +90,12 @@ Tôi là **Bản Nguyễn**, sinh viên ngành Trí Tuệ Nhân Tạo tại **Đ
 
 <br/>
 
-<!-- Thành phố 3D Isometric (GitHub Profile 3D Contrib) -->
+<!-- Contribution Snake Game (Rắn ăn ô xanh đóng góp) -->
 <div align="center">
-  <h3>🏙️ Thành phố đóng góp 3D (3D Isometric Contribution City)</h3>
-  <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D Isometric City" width="100%" />
+  <h3>🎮 Trò chơi rắn ăn ô xanh (Contribution Snake)</h3>
+  <img src="https://raw.githubusercontent.com/caoban123/caoban123/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
   <p align="right">
-    <sub><i>(Xem hướng dẫn tự động tạo Thành phố 3D ở cuối tệp này)</i></sub>
+    <sub><i>(Xem hướng dẫn kích hoạt Rắn ăn ô xanh ở cuối tệp này)</i></sub>
   </p>
 </div>
 
@@ -121,38 +121,44 @@ Tôi là **Bản Nguyễn**, sinh viên ngành Trí Tuệ Nhân Tạo tại **Đ
 
 ---
 
-### 🛠️ Hướng dẫn kích hoạt Thành phố đóng góp 3D (3D Isometric City)
-Để tự động vẽ và cập nhật hoạt ảnh thành phố 3D từ các đóng góp của bạn hàng ngày:
+### 🛠️ Hướng dẫn kích hoạt Rắn ăn ô đóng góp (Contribution Snake)
+Để hiển thị hình ảnh trò chơi Rắn ăn ô đóng góp tự động cập nhật hàng ngày:
 1. Tạo một thư mục `.github/workflows/` trong repository `caoban123` của bạn.
-2. Tạo tệp tin `profile-3d.yml` bên trong thư mục đó và dán nội dung sau:
+2. Tạo tệp tin `generate-snake.yml` bên trong thư mục đó và dán nội dung sau:
    ```yaml
-   name: Generate 3D Profile Contrib
+   name: Generate Snake
 
    on:
      schedule:
-       - cron: "0 18 * * *" # Chạy tự động lúc 1 giờ sáng giờ Việt Nam hàng ngày
+       - cron: "0 */24 * * *" # Chạy tự động mỗi 24 giờ
      workflow_dispatch:
      push:
        branches:
          - main
 
    jobs:
-     build:
+     generate:
+       permissions:
+         contents: write
        runs-on: ubuntu-latest
-       name: generate-github-profile-3d-contrib
+       timeout-minutes: 5
+       
        steps:
-         - uses: actions/checkout@v3
-         - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+         - name: Generate github-contribution-grid-snake.svg
+           uses: Platane/snk/svg-only@v3
+           with:
+             github_user_name: ${{ github.repository_owner }}
+             outputs: |
+               dist/github-contribution-grid-snake.svg
+               dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+             
+         - name: Push github-contribution-grid-snake.svg to the output branch
+           uses: crazy-max/ghaction-github-pages@v3.1.0
+           with:
+             target_branch: output
+             build_dir: dist
            env:
              GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-             USERNAME: ${{ github.repository_owner }}
-         - name: Commit & Push changes
-           run: |
-             git config --local user.email "action@github.com"
-             git config --local user.name "GitHub Action"
-             git add -A .
-             git commit -m "Generated 3D Profile Contrib" || exit 0
-             git push
    ```
-3. Commit tệp tin này lên nhánh `main`. GitHub Actions sẽ chạy và tự động tạo thư mục `profile-3d-contrib/` chứa các tệp ảnh SVG thành phố 3D trong repository của bạn. Khi đó, hình ảnh thành phố 3D động sẽ hiển thị tuyệt đẹp trên trang cá nhân của bạn!
+3. Commit tệp tin này lên nhánh `main`. GitHub Actions sẽ chạy và tự động tạo nhánh `output` chứa file ảnh SVG động. Lúc đó con rắn sẽ bắt đầu hoạt động trên trang cá nhân của bạn!
 
