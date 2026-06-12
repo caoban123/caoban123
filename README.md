@@ -85,7 +85,6 @@ Tôi là **Bản Nguyễn**, sinh viên ngành Trí Tuệ Nhân Tạo tại **Đ
   <h3>🎮 Trò chơi rắn ăn ô xanh (Contribution Snake)</h3>
   <img src="https://raw.githubusercontent.com/caoban123/caoban123/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
   <p align="right">
-    <sub><i>(Xem hướng dẫn kích hoạt Rắn ăn ô xanh ở cuối tệp này)</i></sub>
   </p>
 </div>
 
