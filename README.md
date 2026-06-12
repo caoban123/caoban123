@@ -80,9 +80,23 @@ Tôi là **Bản Nguyễn**, sinh viên ngành Trí Tuệ Nhân Tạo tại **Đ
 <br clear="both"/>
 <br/>
 
-<!-- Activity Graph -->
+<!-- LeetCode Stats Card (Dành cho việc luyện thuật toán) -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=caoban123&theme=tokyonight&hide_border=true" alt="Activity Graph" width="100%" />
+  <h3>🏆 Thành tích LeetCode (LeetCode Stats)</h3>
+  <a href="https://leetcode.com/caoban123/" target="_blank">
+    <img src="https://leetcard.jacobw.cc/api?username=caoban123&theme=dark" alt="LeetCode Stats" width="55%" />
+  </a>
+</div>
+
+<br/>
+
+<!-- Thành phố 3D Isometric (GitHub Profile 3D Contrib) -->
+<div align="center">
+  <h3>🏙️ Thành phố đóng góp 3D (3D Isometric Contribution City)</h3>
+  <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D Isometric City" width="100%" />
+  <p align="right">
+    <sub><i>(Xem hướng dẫn tự động tạo Thành phố 3D ở cuối tệp này)</i></sub>
+  </p>
 </div>
 
 ---
@@ -104,3 +118,41 @@ Tôi là **Bản Nguyễn**, sinh viên ngành Trí Tuệ Nhân Tạo tại **Đ
 <div align="right">
   <sub>Trang cá nhân được tự động cập nhật và định kiểu tokyonight 🌌</sub>
 </div>
+
+---
+
+### 🛠️ Hướng dẫn kích hoạt Thành phố đóng góp 3D (3D Isometric City)
+Để tự động vẽ và cập nhật hoạt ảnh thành phố 3D từ các đóng góp của bạn hàng ngày:
+1. Tạo một thư mục `.github/workflows/` trong repository `caoban123` của bạn.
+2. Tạo tệp tin `profile-3d.yml` bên trong thư mục đó và dán nội dung sau:
+   ```yaml
+   name: Generate 3D Profile Contrib
+
+   on:
+     schedule:
+       - cron: "0 18 * * *" # Chạy tự động lúc 1 giờ sáng giờ Việt Nam hàng ngày
+     workflow_dispatch:
+     push:
+       branches:
+         - main
+
+   jobs:
+     build:
+       runs-on: ubuntu-latest
+       name: generate-github-profile-3d-contrib
+       steps:
+         - uses: actions/checkout@v3
+         - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+           env:
+             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+             USERNAME: ${{ github.repository_owner }}
+         - name: Commit & Push changes
+           run: |
+             git config --local user.email "action@github.com"
+             git config --local user.name "GitHub Action"
+             git add -A .
+             git commit -m "Generated 3D Profile Contrib" || exit 0
+             git push
+   ```
+3. Commit tệp tin này lên nhánh `main`. GitHub Actions sẽ chạy và tự động tạo thư mục `profile-3d-contrib/` chứa các tệp ảnh SVG thành phố 3D trong repository của bạn. Khi đó, hình ảnh thành phố 3D động sẽ hiển thị tuyệt đẹp trên trang cá nhân của bạn!
+
