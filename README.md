@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6a0dad,100:2e0249&height=220&section=header&text=Nguyễn%20Bản&fontSize=65&fontColor=e8d5ff&animation=fadeIn&fontAlignY=38&desc=//%20Backend%20Developer%20%26%20AI%20Worldbuilder&descAlignY=58&descSize=18&descColor=b388ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6a0dad,100:2e0249&height=220&section=header&text=Nguy%E1%BB%85n%20B%E1%BA%A3n&fontSize=65&fontColor=e8d5ff&animation=fadeIn&fontAlignY=38&desc=//%20Backend%20Developer%20%26%20AI%20Worldbuilder&descAlignY=58&descSize=18&descColor=b388ff" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=900&color=B388FF&center=true&vCenter=true&width=600&lines=%24+whoami;%3E+CS+student+%40+HCMUS;%3E+building+AI-powered+worlds;%3E+FastAPI+%2B+LLM+%2B+RAG;%3E+coffee.exe+running..." alt="Typing SVG"/>
