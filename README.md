@@ -80,16 +80,6 @@ Tôi là **Bản Nguyễn**, sinh viên ngành Trí Tuệ Nhân Tạo tại **Đ
 <br clear="both"/>
 <br/>
 
-<!-- LeetCode Stats Card (Dành cho việc luyện thuật toán) -->
-<div align="center">
-  <h3>🏆 Thành tích LeetCode (LeetCode Stats)</h3>
-  <a href="https://leetcode.com/caoban123/" target="_blank">
-    <img src="https://leetcard.jacobw.cc/api?username=caoban123&theme=dark" alt="LeetCode Stats" width="55%" />
-  </a>
-</div>
-
-<br/>
-
 <!-- Contribution Snake Game (Rắn ăn ô xanh đóng góp) -->
 <div align="center">
   <h3>🎮 Trò chơi rắn ăn ô xanh (Contribution Snake)</h3>
@@ -121,44 +111,4 @@ Tôi là **Bản Nguyễn**, sinh viên ngành Trí Tuệ Nhân Tạo tại **Đ
 
 ---
 
-### 🛠️ Hướng dẫn kích hoạt Rắn ăn ô đóng góp (Contribution Snake)
-Để hiển thị hình ảnh trò chơi Rắn ăn ô đóng góp tự động cập nhật hàng ngày:
-1. Tạo một thư mục `.github/workflows/` trong repository `caoban123` của bạn.
-2. Tạo tệp tin `generate-snake.yml` bên trong thư mục đó và dán nội dung sau:
-   ```yaml
-   name: Generate Snake
-
-   on:
-     schedule:
-       - cron: "0 */24 * * *" # Chạy tự động mỗi 24 giờ
-     workflow_dispatch:
-     push:
-       branches:
-         - main
-
-   jobs:
-     generate:
-       permissions:
-         contents: write
-       runs-on: ubuntu-latest
-       timeout-minutes: 5
-       
-       steps:
-         - name: Generate github-contribution-grid-snake.svg
-           uses: Platane/snk/svg-only@v3
-           with:
-             github_user_name: ${{ github.repository_owner }}
-             outputs: |
-               dist/github-contribution-grid-snake.svg
-               dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-             
-         - name: Push github-contribution-grid-snake.svg to the output branch
-           uses: crazy-max/ghaction-github-pages@v3.1.0
-           with:
-             target_branch: output
-             build_dir: dist
-           env:
-             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-   ```
-3. Commit tệp tin này lên nhánh `main`. GitHub Actions sẽ chạy và tự động tạo nhánh `output` chứa file ảnh SVG động. Lúc đó con rắn sẽ bắt đầu hoạt động trên trang cá nhân của bạn!
 
