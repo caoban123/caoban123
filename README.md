@@ -1,8 +1,12 @@
 # ⚡ Nguyễn Bản -- Software & AI Developer
 
-<!-- Modern minimalist top header with stats and visitor count -->
 <div align="center">
+  <!-- Cool Developer Coding GIF -->
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="60%" alt="Developer coding illustration" />
+  
+  <br/><br/>
   <h2>👋 Chào mừng bạn đến với không gian mã nguồn của tôi!</h2>
+  
   <p>
     <img src="https://komarev.com/ghpvc/?username=caoban123&label=Lượt%20ghé%20thăm&color=7952b3&style=flat-square" alt="Visitor Counter" />
   </p>
