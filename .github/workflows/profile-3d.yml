@@ -1,1 +1,27 @@
+name: Generate 3D Profile Contrib
 
+on:
+  schedule:
+    - cron: "0 18 * * *" # Chạy tự động lúc 1 giờ sáng giờ Việt Nam hàng ngày
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A .
+          git commit -m "Generated 3D Profile Contrib" || exit 0
+          git push
