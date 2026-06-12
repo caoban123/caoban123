@@ -1,45 +1,44 @@
-# 🌟 Nguyễn Bản (caoban123)
-
-<!-- Animated Header using Capsule Render -->
+<!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,30&height=260&section=header&text=Nguyễn%20Bản&fontSize=70&fontColor=fff&animation=twinkle&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=200&section=header&text=Nguyễn%20Bản&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Backend%20%26%20AI%20Developer&descAlignY=55&descSize=18" width="100%" />
 </p>
 
-<!-- Typing effect sub-header -->
+<h3 align="center">💻 Backend Developer | 🤖 AI/LLM Enthusiast | 📚 CS Student at HCMUS</h3>
+
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9C27B0&center=true&vCenter=true&width=500&lines=I+turn+coffee+%E2%98%95+into+code...;And+bugs+%F0%9F%90%9B+into+features+%E2%9C%A8;Passionate+Backend+%26+AI+Developer;LeetCode+%26+NeetCode+Explorer" alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-b%E1%BA%A3n-a152b9416/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:Caoban170106@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="tel:0934722451">
+    <img src="https://img.shields.io/badge/Phone-0934%20722%20451-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 Về Tôi (About Me)
+### 👋 Về tôi
 
-Hi there! I'm **Bản Nguyễn**, a software developer passionate about building smart, interactive web applications and solving complex coding challenges.
-
-*   🎓 **Trường học:** Sinh viên Đại học Khoa học Tự nhiên - ĐHQG TP.HCM (HCMUS).
-*   💻 **Đam mê:** Giải quyết các bài toán lập trình và tích hợp Trí tuệ Nhân tạo (LLM, RAG).
-*   📚 **Mục tiêu:** Làm chủ các Cấu trúc Dữ liệu & Giải thuật (NeetCode + LeetCode).
-*   ☕ **Thói quen vui:** Tự tin debug hiệu quả nhất sau một ly cà phê đậm đặc.
+- 🎓 Sinh viên ngành Khoa học Máy tính – **Đại học Khoa học Tự nhiên, ĐHQG TP.HCM (HCMUS)**
+- 🔭 Hiện đang xây dựng các ứng dụng web full-stack tích hợp **AI / LLM / RAG**
+- 🌱 Đang trau dồi thêm về Cấu trúc dữ liệu & Giải thuật (LeetCode, NeetCode)
+- ⚡ Sở thích: debug hiệu quả nhất sau một ly cà phê đậm đặc ☕
 
 ---
 
-## 🛠️ Công Nghệ & Kỹ Năng (Tech Stack)
+### 🛠️ Tech Stack
 
-### Lập trình & Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-### Lưu trữ & Hạ tầng
-<p align="left">
-  <img src="https://img.shields.io/badge/Qdrant-red?style=for-the-badge&logo=qdrant&logoColor=white" />
+  <br/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -47,54 +46,17 @@ Hi there! I'm **Bản Nguyễn**, a software developer passionate about building
 
 ---
 
-## 🏆 Thành Tựu Github (GitHub Trophies)
+### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=caoban123&theme=radical&no-bg=true&margin-w=15&column=5" alt="github-profile-trophy" width="100%" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=caoban123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caoban123&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caoban123&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
 ---
 
-## 📊 Chỉ Số Hoạt Động (GitHub Stats)
-
-<p align="center">
-  <!-- GitHub Stats Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=caoban123&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="caoban123's GitHub Stats" width="48%" align="left" />
-  </a>
-  <!-- Top Languages Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caoban123&layout=compact&theme=radical&hide_border=true" alt="caoban123's Top Languages" width="48%" align="right" />
-  </a>
-</p>
-
-<br clear="both" />
-<br />
-
-<p align="center">
-  <!-- GitHub Streak Card -->
-  <a href="https://github.com/danielcranney/readme-generator">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=caoban123&theme=radical&hide_border=true" alt="caoban123's Coding Streak" width="100%" />
-  </a>
-</p>
-
----
-
-## 🤝 Kết Nối Với Tôi (Connect with me)
-
-<p align="left">
-  <!-- Facebook Badge -->
-  <a href="https://www.facebook.com/nguyen.ban.591323" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <!-- Gmail Badge -->
-  <a href="mailto:caoban170106@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
-
-<p align="right">
-  <i>"My code runs perfectly... on the second try 😏"</i>
-</p>
+<p align="center"><i>"My code runs perfectly... on the second try 😏"</i></p>
