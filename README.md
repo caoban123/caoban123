@@ -17,10 +17,7 @@
 ### 🚀 Giới thiệu (About Me)
 
 Tôi là **Bản Nguyễn**, sinh viên ngành Trí Tuệ Nhân Tạo tại **Đại học Khoa học Tự nhiên - ĐHQG TP.HCM**. Đam mê lớn nhất của tôi là xây dựng các hệ thống backend hiệu năng cao và ứng dụng Trí tuệ nhân tạo (AI & RAG) vào đời sống thực tế.
-
-*   🔭 **Hiện tại tôi đang:** Nâng cấp cơ chế lấy mẫu tăng cường (RAG) và logic combat cho dự án [AI Story Adventure](https://github.com/caoban123/aistoryadventure).
-*   🌱 **Tôi đang học sâu hơn về:** Thiết kế hệ thống phân tán (Distributed Systems) và tối ưu hóa truy vấn cơ sở dữ liệu Vector.
-*   💬 **Hỏi tôi về:** Cấu trúc dữ liệu & Giải thuật, Python, FastAPI, Firebase và Qdrant DB.
+*   🌱 **Tôi đang học sâu hơn về:** DeepLearning, Computer Vision, Machine Learning, ReinForcement Learning
 *   ⚡ **Fun Fact:** *"Code của tôi chạy cực kỳ trơn tru... ở lần chạy thứ hai 😏"*
 
 ---
