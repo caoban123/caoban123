@@ -6,8 +6,9 @@
 
 **Building AI systems that go beyond demos — combining intelligent models, retrieval systems, and reliable backend engineering.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-caoban123-181717?style=for-the-badge\&logo=github)](https://github.com/caoban123)
-[![Email](https://img.shields.io/badge/Email-caoban170106%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:caoban170106@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-caoban123-181717?style=for-the-badge\&logo=github)](https://github.com/caoban123) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nguyễn_Cao_Bản-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/caoban123) 
+[![Email](https://img.shields.io/badge/Email-caoban170106%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:caoban170106@gmail.com) 
 [![Facebook](https://img.shields.io/badge/Facebook-Nguyễn_Bản-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://www.facebook.com/nguyen.ban.591323)
 
 </div>
@@ -214,15 +215,12 @@ At the moment, I'm focusing on developing a deeper understanding of:
 
 ---
 
-## 🤝 Let's Connect
-
-I'm always interested in discussing **AI, RAG, LLM applications, software engineering, research ideas, and interesting open-source projects**.
-
-📧 **Email:** [caoban170106@gmail.com](mailto:caoban170106@gmail.com)
-
-💻 **GitHub:** [github.com/caoban123](https://github.com/caoban123)
-
-💬 **Facebook:** [Nguyễn Bản](https://www.facebook.com/nguyen.ban.591323)
+## 🤝 Let's Connect 
+I'm always interested in discussing **AI, RAG, LLM applications, software engineering, research ideas, and interesting open-source projects**. 
+💼 **LinkedIn:** [linkedin.com/in/caoban123](https://www.linkedin.com/in/caoban123) 
+📧 **Email:** [caoban170106@gmail.com](mailto:caoban170106@gmail.com) 
+💻 **GitHub:** [github.com/caoban123](https://github.com/caoban123) 
+💬 **Facebook:** [Nguyễn Bản](https://www.facebook.com/nguyen.ban.591323) 
 
 ---
 
