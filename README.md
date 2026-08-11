@@ -1,5 +1,3 @@
-Mình đề xuất chuyển README sang **English-first** để profile có giá trị hơn khi recruiter, người làm open-source hoặc researcher quốc tế truy cập. Emoji vẫn giữ nhưng tiết chế; trọng tâm là **AI/RAG → flagship project → technical stack → engineering fundamentals**.
-
 <div align="center">
 
 # Hi, I'm Nguyễn Cao Bản 👋
@@ -237,12 +235,3 @@ I'm always interested in discussing **AI, RAG, LLM applications, software engine
 ⚡ Fun fact: My code works perfectly... **on the second run.** 😏
 
 </div>
-
-Điểm mình cố tình thay đổi mạnh nhất là **không tự giới thiệu bằng một đống framework ngay từ đầu**. Người xem trước tiên thấy rõ bạn là **AI Developer thiên về RAG/LLM + Software Engineering**, sau đó `AI Story Adventure` đóng vai trò bằng chứng kỹ thuật. Repo này thực sự có đủ các thành phần để mô tả sâu như **semantic memory, vector retrieval, FastAPI BackgroundTasks, SSE, AI-provider fallback và deterministic RPG engine**. ([GitHub][1])
-
-Mình cũng hạ `Caro`, `LeetCode`, `NeetCode` xuống dưới thay vì đặt ngang hàng flagship project. Điều này hợp lý hơn vì GitHub hiện cho thấy `aistoryadventure` là popular repository nổi bật nhất, trong khi profile có tổng cộng 21 repositories. ([GitHub][2])
-
-Một điểm nữa: mình **không khuyên ghi “backend hiệu năng cao”** như README cũ nếu chưa có benchmark, tải concurrent hoặc số liệu performance cụ thể. Câu đó nghe mạnh nhưng khó chứng minh. Phiên bản mới dùng **backend engineering / reliable AI systems**, vừa chuyên nghiệp vừa sát những gì repo của bạn đang thể hiện hơn. ([GitHub][1])
-
-[1]: https://github.com/caoban123/aistoryadventure "GitHub - caoban123/aistoryadventure · GitHub"
-[2]: https://github.com/caoban123 "caoban123 (Nguyễn Cao Bản) · GitHub"
