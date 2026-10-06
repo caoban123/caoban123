@@ -2,7 +2,7 @@
 
 # Hi, I'm Nguyễn Cao Bản 👋
 
-### AI Developer · RAG & LLM Applications · Software Engineering
+### AI Developer · RAG & LLM Applications · AI Engineer
 
 <img src="https://media1.tenor.com/m/BieuTOW_Ez8AAAAd/rem-rezero.gif" width="220" alt="Rem Re:Zero" />
 
