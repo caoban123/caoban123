@@ -2,11 +2,13 @@
 
 # Hi, I'm Nguyễn Cao Bản 👋
 
-### AI Developer · RAG & LLM Applications · AI Engineer
+### AI Developer · RAG & LLM Applications · Software Engineering
 
 <img src="https://media1.tenor.com/m/BieuTOW_Ez8AAAAd/rem-rezero.gif" width="220" alt="Rem Re:Zero" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://media1.tenor.com/m/CKCQXTH5474AAAAd/ram-rezero.gif" width="220" alt="Ram Re:Zero" />
 
-<br>
+<br><br>
 
 **Building AI systems that go beyond demos — combining intelligent models, retrieval systems, and reliable backend engineering.**
 
@@ -16,6 +18,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-Nguyễn_Bản-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nguyen.ban.591323)
 
 </div>
+
+---
 
 ---
 
