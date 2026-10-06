@@ -4,12 +4,16 @@
 
 ### AI Developer · RAG & LLM Applications · Software Engineering
 
+<img src="https://media1.tenor.com/m/BieuTOW_Ez8AAAAd/rem-rezero.gif" width="220" alt="Rem Re:Zero" />
+
+<br>
+
 **Building AI systems that go beyond demos — combining intelligent models, retrieval systems, and reliable backend engineering.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-caoban123-181717?style=for-the-badge\&logo=github)](https://github.com/caoban123) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nguyễn_Cao_Bản-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/caoban123) 
-[![Email](https://img.shields.io/badge/Email-caoban170106%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:caoban170106@gmail.com) 
-[![Facebook](https://img.shields.io/badge/Facebook-Nguyễn_Bản-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://www.facebook.com/nguyen.ban.591323)
+[![GitHub](https://img.shields.io/badge/GitHub-caoban123-181717?style=for-the-badge&logo=github)](https://github.com/caoban123)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nguyễn_Cao_Bản-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caoban123)
+[![Email](https://img.shields.io/badge/Email-caoban170106%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caoban170106@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-Nguyễn_Bản-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nguyen.ban.591323)
 
 </div>
 
