@@ -10,7 +10,7 @@
 
 <br><br>
 
-**Building AI systems that go beyond demos — combining intelligent models, retrieval systems, and reliable backend engineering.**
+**Building practical AI systems by combining intelligent models, retrieval, and reliable software engineering.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-caoban123-181717?style=for-the-badge&logo=github)](https://github.com/caoban123)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nguyễn_Cao_Bản-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caoban123)
@@ -21,25 +21,21 @@
 
 ---
 
----
-
 ## 👨‍💻 About Me
 
 I'm **Nguyễn Cao Bản**, an Artificial Intelligence student at the **University of Science, Vietnam National University Ho Chi Minh City (HCMUS)**.
 
-My main interest lies at the intersection of **Artificial Intelligence and Software Engineering**. I enjoy turning AI concepts into practical applications — especially systems involving **Large Language Models, Retrieval-Augmented Generation (RAG), vector databases, and backend services**.
+I'm interested in the intersection of **Artificial Intelligence and Software Engineering**, with a focus on building practical systems using **LLMs, RAG, AI Agents, Computer Vision, Machine Learning, and backend technologies**.
 
-Rather than treating AI models as isolated components, I'm particularly interested in building the systems around them: **retrieval pipelines, memory architectures, APIs, streaming, deployment, evaluation, and reliability**.
+Currently, I'm exploring **Deep Learning, Video & Computer Vision, Retrieval-Augmented Generation, AI Agents, and Reinforcement Learning**, while strengthening my foundations in algorithms and software engineering.
 
-Currently, I'm expanding my knowledge in **Deep Learning, Machine Learning, Computer Vision, Reinforcement Learning, and Knowledge Representation**, while continuously strengthening my foundations in algorithms and software development.
-
-> **Current focus:** Building practical AI systems that can retrieve, reason, remember, and interact with users reliably.
+> **Current focus:** Building AI systems that can retrieve, reason, remember, and interact reliably.
 
 ---
 
 ## 🧠 Areas of Interest
 
-`Artificial Intelligence` · `Generative AI` · `Large Language Models` · `RAG` · `AI Agents` · `Vector Search` · `Machine Learning` · `Deep Learning` · `Computer Vision` · `Backend Engineering`
+`Artificial Intelligence` · `Generative AI` · `LLMs` · `RAG` · `AI Agents` · `Machine Learning` · `Deep Learning` · `Computer Vision` · `Backend Engineering`
 
 ---
 
@@ -47,11 +43,11 @@ Currently, I'm expanding my knowledge in **Deep Learning, Machine Learning, Comp
 
 ### AI / Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 ### LLM / RAG
 
@@ -59,137 +55,80 @@ Currently, I'm expanding my knowledge in **Deep Learning, Machine Learning, Comp
 ![LangGraph](https://img.shields.io/badge/LangGraph-Agentic_AI-1C3C3C?style=flat-square)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_DB-orange?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square\&logo=openai\&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square\&logo=googlegemini\&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
 ### Backend / Web
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square\&logo=firebase\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
 
 ### Development & Deployment
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square\&logo=cloudflare\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-# 🚀 Featured Project
+# 🚀 Projects
 
-## 🌌 AI Story Adventure
+### 🌌 AI Story Adventure
 
-### Generative AI · RAG · Vector Memory · FastAPI · LLM
+**Generative AI · RAG · FastAPI · Qdrant · LLM**
 
-**AI Story Adventure** is an AI-powered interactive storytelling and RPG platform designed to generate dynamic stories while maintaining long-term narrative consistency.
+Interactive AI storytelling platform with **semantic memory**, RAG-based context retrieval, real-time LLM streaming, and a deterministic RPG engine.
 
-Unlike a simple chatbot that relies entirely on the current context window, the system implements a **semantic memory architecture** that retrieves relevant events from previous interactions and provides them back to the LLM as contextual memory.
-
-🔗 **Repository:** [github.com/caoban123/aistoryadventure](https://github.com/caoban123/aistoryadventure)
-
-### 🧠 AI & RAG Architecture
-
-The application uses a **Retrieval-Augmented Generation pipeline** backed by **Qdrant / ChromaDB**.
-
-Previous events are transformed into vector embeddings and stored as semantic memories. When the player performs a new action, the system retrieves the most relevant memories using **cosine similarity** and injects them into the LLM context.
-
-This allows the AI to maintain consistency across long-running stories without continuously sending the entire conversation history.
-
-### ⚙️ Backend Engineering
-
-The backend is built with **FastAPI** and handles AI orchestration, authentication, game logic, memory retrieval, and API communication.
-
-The system also uses **Server-Sent Events (SSE)** to stream generated responses to the client in real time, reducing perceived latency during LLM generation.
-
-Background tasks are used for operations such as **memory summarization and vector storage**, preventing expensive AI operations from blocking the main request flow.
-
-### 🔄 AI Provider Fallback
-
-The system includes an AI provider fallback mechanism designed to improve reliability when an API reaches its quota or becomes temporarily unavailable.
-
-It can dynamically route requests between providers such as:
-
-`Gemini → OpenAI → Groq`
-
-This allows the application to remain available even when individual model providers encounter failures.
-
-### 🎮 Deterministic RPG Engine
-
-Game mechanics such as **damage calculation, critical hits, inventory, attributes, and combat rules** are handled deterministically in Python.
-
-The LLM is responsible for narrative generation rather than critical game-state calculations.
-
-This separation helps prevent hallucinated game logic and makes the overall system more predictable.
-
-### 🏗️ Architecture
-
-```text
-User
- │
- ▼
-Frontend
- │
- ▼
-FastAPI Backend
- │
- ├── Authentication
- │
- ├── RPG Engine
- │
- ├── Safety Layer
- │
- ├── RAG / Memory Retrieval
- │       │
- │       ▼
- │   Qdrant / ChromaDB
- │
- └── LLM Orchestrator
-         │
-         ├── Gemini
-         ├── OpenAI
-         └── Groq
-              │
-              ▼
-        SSE Streaming
-              │
-              ▼
-             User
-```
-
-### 🔧 Main Technologies
-
-`Python` · `FastAPI` · `RAG` · `Qdrant` · `ChromaDB` · `Vector Embeddings` · `Gemini API` · `OpenAI API` · `Firebase Authentication` · `SSE` · `Docker` · `Coolify` · `Cloudflare Tunnel`
+🔗 [Repository](https://github.com/caoban123/aistoryadventure)
 
 ---
 
-## 📚 Other Projects
+### ⚽ Football Detection & Tracking
+
+**YOLO · ByteTrack · Computer Vision**
+
+Computer vision project for detecting and tracking football players, referees, and the ball from match videos.
+
+---
+
+### 📄 AI Document / RAG Systems
+
+**LangChain · LangGraph · Vector Database · LLM**
+
+Experiments with document retrieval, semantic search, vector databases, and agent-based LLM workflows.
+
+---
 
 ### 🧩 Data Structures & Algorithms
 
-**[DataStructureAndAlgorithms](https://github.com/caoban123/DataStructureAndAlgorithms)**
+**C++ · Algorithms · Problem Solving**
 
-A collection of implementations and exercises focused on core **data structures, algorithms, problem-solving techniques, and computational thinking**.
+Implementations and exercises covering core data structures, algorithms, and problem-solving techniques.
+
+🔗 [Data Structures & Algorithms](https://github.com/caoban123/DataStructureAndAlgorithms)
 
 ---
 
 ### 🧠 LeetCode & NeetCode
 
-**[LeetCode](https://github.com/caoban123/LeetCode)** · **[NeetCode](https://github.com/caoban123/NeetCode)**
+Algorithm practice and solutions focused on **data structures, algorithms, and complexity analysis**.
 
-My algorithm practice repositories where I study different approaches to solving programming problems and strengthen my foundations in **data structures, algorithms, and complexity analysis**.
+🔗 [LeetCode](https://github.com/caoban123/LeetCode) · [NeetCode](https://github.com/caoban123/NeetCode)
 
 ---
 
 ### 🎮 Caro
 
-**[Caro](https://github.com/caoban123/Caro)**
+**Python · Game Development**
 
-A Python implementation of the traditional **Gomoku/Caro** game, created as part of my journey in applying programming concepts to interactive applications.
+Simple Python implementation of the traditional **Gomoku / Caro** game.
+
+🔗 [Repository](https://github.com/caoban123/Caro)
 
 ---
 
@@ -197,38 +136,28 @@ A Python implementation of the traditional **Gomoku/Caro** game, created as part
 
 <div align="center">
 
-![Bản's GitHub Stats](https://github-readme-stats.vercel.app/api?username=caoban123\&show_icons=true\&hide_border=true\&count_private=true\&theme=tokyonight)
+![Bản's GitHub Stats](https://github-readme-stats.vercel.app/api?username=caoban123&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caoban123\&layout=compact\&hide_border=true\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caoban123&layout=compact&hide_border=true&theme=tokyonight)
 
 </div>
 
 ---
 
-## 🎯 What I'm Learning
+## 🎯 Currently Learning
 
-At the moment, I'm focusing on developing a deeper understanding of:
-
-**Deep Learning** — neural networks, optimization, CNNs, representation learning
-
-**Machine Learning** — model development, evaluation, and classical ML techniques
-
-**Computer Vision** — detection, segmentation, tracking, and visual representation learning
-
-**LLM & RAG Systems** — retrieval, embeddings, vector databases, agents, memory, and evaluation
-
-**Reinforcement Learning** — agents, policies, value functions, and sequential decision-making
-
-**Algorithms & Data Structures** — improving problem-solving and software engineering fundamentals
+`Deep Learning` · `Computer Vision` · `Video Generation & Editing` · `LLM & RAG Systems` · `Reinforcement Learning` · `Algorithms`
 
 ---
 
-## 🤝 Let's Connect 
-I'm always interested in discussing **AI, RAG, LLM applications, software engineering, research ideas, and interesting open-source projects**. 
-💼 **LinkedIn:** [linkedin.com/in/caoban123](https://www.linkedin.com/in/caoban123) 
-📧 **Email:** [caoban170106@gmail.com](mailto:caoban170106@gmail.com) 
-💻 **GitHub:** [github.com/caoban123](https://github.com/caoban123) 
-💬 **Facebook:** [Nguyễn Bản](https://www.facebook.com/nguyen.ban.591323) 
+## 🤝 Let's Connect
+
+I'm interested in **AI, RAG, LLM applications, Computer Vision, software engineering, research, and open-source projects**.
+
+💼 **LinkedIn:** [linkedin.com/in/caoban123](https://www.linkedin.com/in/caoban123)  
+📧 **Email:** [caoban170106@gmail.com](mailto:caoban170106@gmail.com)  
+💻 **GitHub:** [github.com/caoban123](https://github.com/caoban123)  
+💬 **Facebook:** [Nguyễn Bản](https://www.facebook.com/nguyen.ban.591323)
 
 ---
 
