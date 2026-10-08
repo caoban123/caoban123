@@ -4,11 +4,9 @@
 
 ### AI Developer · RAG & LLM Applications · Software Engineering
 
-<img src="https://media1.tenor.com/m/BieuTOW_Ez8AAAAd/rem-rezero.gif" width="220" alt="Rem Re:Zero" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://media1.tenor.com/m/CKCQXTH5474AAAAd/ram-rezero.gif" width="220" alt="Ram Re:Zero" />
+<img src="https://media.giphy.com/media/4NnaT2C2DEriGP0bKJ/giphy.gif" width="300" alt="AI Cat" />
 
-<br><br>
+<br>
 
 **Building practical AI systems by combining intelligent models, retrieval, and reliable software engineering.**
 
@@ -76,62 +74,6 @@ Currently, I'm exploring **Deep Learning, Video & Computer Vision, Retrieval-Aug
 
 ---
 
-# 🚀 Projects
-
-### 🌌 AI Story Adventure
-
-**Generative AI · RAG · FastAPI · Qdrant · LLM**
-
-Interactive AI storytelling platform with **semantic memory**, RAG-based context retrieval, real-time LLM streaming, and a deterministic RPG engine.
-
-🔗 [Repository](https://github.com/caoban123/aistoryadventure)
-
----
-
-### ⚽ Football Detection & Tracking
-
-**YOLO · ByteTrack · Computer Vision**
-
-Computer vision project for detecting and tracking football players, referees, and the ball from match videos.
-
----
-
-### 📄 AI Document / RAG Systems
-
-**LangChain · LangGraph · Vector Database · LLM**
-
-Experiments with document retrieval, semantic search, vector databases, and agent-based LLM workflows.
-
----
-
-### 🧩 Data Structures & Algorithms
-
-**C++ · Algorithms · Problem Solving**
-
-Implementations and exercises covering core data structures, algorithms, and problem-solving techniques.
-
-🔗 [Data Structures & Algorithms](https://github.com/caoban123/DataStructureAndAlgorithms)
-
----
-
-### 🧠 LeetCode & NeetCode
-
-Algorithm practice and solutions focused on **data structures, algorithms, and complexity analysis**.
-
-🔗 [LeetCode](https://github.com/caoban123/LeetCode) · [NeetCode](https://github.com/caoban123/NeetCode)
-
----
-
-### 🎮 Caro
-
-**Python · Game Development**
-
-Simple Python implementation of the traditional **Gomoku / Caro** game.
-
-🔗 [Repository](https://github.com/caoban123/Caro)
-
----
-
 ## 📊 GitHub Activity
 
 <div align="center">
@@ -152,7 +94,7 @@ Simple Python implementation of the traditional **Gomoku / Caro** game.
 
 ## 🤝 Let's Connect
 
-I'm interested in **AI, RAG, LLM applications, Computer Vision, software engineering, research, and open-source projects**.
+I'm interested in **AI, RAG, LLM applications, Computer Vision, Software Engineering, research, and open-source projects**.
 
 💼 **LinkedIn:** [linkedin.com/in/caoban123](https://www.linkedin.com/in/caoban123)  
 📧 **Email:** [caoban170106@gmail.com](mailto:caoban170106@gmail.com)  
